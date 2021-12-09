@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "description": "A template of SPA built on vue@2.x",
   "files": [
-    "./template"
+    "template"
   ],
   "scripts": {
     "prepare": "husky install",
