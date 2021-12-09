@@ -1,6 +1,6 @@
 {
   "name": "@fujia/vue2-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A template of SPA built on vue@2.x",
   "main": "index.js",
   "scripts": {
