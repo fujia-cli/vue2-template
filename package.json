@@ -2,7 +2,9 @@
   "name": "@fujia/vue2-template",
   "version": "0.1.1",
   "description": "A template of SPA built on vue@2.x",
-  "main": "index.js",
+  "files": [
+    "./template"
+  ],
   "scripts": {
     "prepare": "husky install",
     "release": "sh scripts/release.sh"
