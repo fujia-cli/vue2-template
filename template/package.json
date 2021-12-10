@@ -1,6 +1,6 @@
 {
-  "name": "@fujia/vue2-example",
-  "version": "0.1.0",
+  "name": "<%= packageName %>",
+  "version": "<%= version %>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
